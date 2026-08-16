@@ -25,16 +25,16 @@ body{
 }
 
 h1{
-    color: rgb(69, 110, 193);
+    color: rgb(57, 199, 95);
 }
 
 button{
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: rgb(83, 113, 179);
+    background-color: rgb(94, 215, 118);
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: backgraund-color 0.3s ease;
-}  
+} 
